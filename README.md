@@ -5,7 +5,6 @@ A polished, "juicy" clone of the classic arcade game Pong, built from scratch us
 This project demonstrates the use of a **Finite State Machine (FSM)** to manage game states (Splash, Countdown, Gameplay, Ending), along with audio management and visual polish effects.
 
 ![Game Screenshot](screenshot.png)
-*(Note: Upload a screenshot of your game to your repo and name it screenshot.png)*
 
 ## ✨ Features
 
