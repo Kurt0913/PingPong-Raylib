@@ -1,0 +1,11 @@
+# Ignore Executables and Object files
+*.exe
+*.o
+*.dll
+
+# Ignore VS Code settings (optional, but good practice)
+.vscode/
+
+# Ignore Operating System junk
+.DS_Store
+Thumbs.db
